@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm Hariss Haider, a 2nd-year Electronic Engineering student and Full Stack Web Developer
+I’m currently expanding my knowledge in Backend Development and Tech.
+I’m looking to collaborate with other content creators and developers.
 
 💡 “Crafting logic and elegance in every line of code.”
 
